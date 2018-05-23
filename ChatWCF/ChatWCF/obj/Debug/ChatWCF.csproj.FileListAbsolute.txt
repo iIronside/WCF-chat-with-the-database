@@ -1,0 +1,21 @@
+E:\My documents\WEB\Курсовой\ChatWCF\ChatWCF\bin\Debug\ChatWCF.exe.config
+E:\My documents\WEB\Курсовой\ChatWCF\ChatWCF\bin\Debug\ChatWCF.exe
+E:\My documents\WEB\Курсовой\ChatWCF\ChatWCF\bin\Debug\ChatWCF.pdb
+E:\My documents\WEB\Курсовой\ChatWCF\ChatWCF\obj\Debug\LoginWindow.g.cs
+E:\My documents\WEB\Курсовой\ChatWCF\ChatWCF\obj\Debug\MainWindow.g.cs
+E:\My documents\WEB\Курсовой\ChatWCF\ChatWCF\obj\Debug\App.g.cs
+E:\My documents\WEB\Курсовой\ChatWCF\ChatWCF\obj\Debug\ChatWCF_MarkupCompile.cache
+E:\My documents\WEB\Курсовой\ChatWCF\ChatWCF\obj\Debug\ChatWCF_MarkupCompile.lref
+E:\My documents\WEB\Курсовой\ChatWCF\ChatWCF\obj\Debug\LoginWindow.baml
+E:\My documents\WEB\Курсовой\ChatWCF\ChatWCF\obj\Debug\MainWindow.baml
+E:\My documents\WEB\Курсовой\ChatWCF\ChatWCF\obj\Debug\ChatWCF.g.resources
+E:\My documents\WEB\Курсовой\ChatWCF\ChatWCF\obj\Debug\ChatWCF.Properties.Resources.resources
+E:\My documents\WEB\Курсовой\ChatWCF\ChatWCF\obj\Debug\ChatWCF.csproj.GenerateResource.cache
+E:\My documents\WEB\Курсовой\ChatWCF\ChatWCF\obj\Debug\ChatWCF.csproj.CoreCompileInputs.cache
+E:\My documents\WEB\Курсовой\ChatWCF\ChatWCF\obj\Debug\ChatWCF.exe
+E:\My documents\WEB\Курсовой\ChatWCF\ChatWCF\obj\Debug\ChatWCF.pdb
+E:\My documents\WEB\Курсовой\ChatWCF\ChatWCF\obj\Debug\RegistrationWindow.g.cs
+E:\My documents\WEB\Курсовой\ChatWCF\ChatWCF\obj\Debug\RegistrationWindow.baml
+E:\My documents\WEB\Курсовой\ChatWCF\ChatWCF\obj\Debug\ChatWCF.csprojResolveAssemblyReference.cache
+E:\My documents\WEB\Курсовой\ChatWCF\ChatWCF\obj\Debug\Create Chat.g.cs
+E:\My documents\WEB\Курсовой\ChatWCF\ChatWCF\obj\Debug\Create Chat.baml

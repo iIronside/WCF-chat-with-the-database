@@ -1,0 +1,11 @@
+E:\My documents\WEB\Курсовой\ChatWCF\ChatHost\bin\Debug\ChatHost.exe.config
+E:\My documents\WEB\Курсовой\ChatWCF\ChatHost\bin\Debug\ChatHost.exe
+E:\My documents\WEB\Курсовой\ChatWCF\ChatHost\bin\Debug\ChatHost.pdb
+E:\My documents\WEB\Курсовой\ChatWCF\ChatHost\bin\Debug\WCFService.dll
+E:\My documents\WEB\Курсовой\ChatWCF\ChatHost\bin\Debug\WCFService.pdb
+E:\My documents\WEB\Курсовой\ChatWCF\ChatHost\bin\Debug\WCFService.dll.config
+E:\My documents\WEB\Курсовой\ChatWCF\ChatHost\obj\Debug\ChatHost.csprojResolveAssemblyReference.cache
+E:\My documents\WEB\Курсовой\ChatWCF\ChatHost\obj\Debug\ChatHost.csproj.CoreCompileInputs.cache
+E:\My documents\WEB\Курсовой\ChatWCF\ChatHost\obj\Debug\ChatHost.csproj.CopyComplete
+E:\My documents\WEB\Курсовой\ChatWCF\ChatHost\obj\Debug\ChatHost.exe
+E:\My documents\WEB\Курсовой\ChatWCF\ChatHost\obj\Debug\ChatHost.pdb

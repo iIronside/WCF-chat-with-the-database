@@ -1,0 +1,7 @@
+E:\My documents\WEB\Курсовой\ChatWCF\WCFService\bin\Debug\WCFService.dll.config
+E:\My documents\WEB\Курсовой\ChatWCF\WCFService\bin\Debug\WCFService.dll
+E:\My documents\WEB\Курсовой\ChatWCF\WCFService\bin\Debug\WCFService.pdb
+E:\My documents\WEB\Курсовой\ChatWCF\WCFService\obj\Debug\WCFService.csprojResolveAssemblyReference.cache
+E:\My documents\WEB\Курсовой\ChatWCF\WCFService\obj\Debug\WCFService.csproj.CoreCompileInputs.cache
+E:\My documents\WEB\Курсовой\ChatWCF\WCFService\obj\Debug\WCFService.dll
+E:\My documents\WEB\Курсовой\ChatWCF\WCFService\obj\Debug\WCFService.pdb
